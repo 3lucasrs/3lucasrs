@@ -16,24 +16,23 @@ Olá, eu sou o Lucas! <br>
 <h4>
 
 ```
-Estudante de Engenharia de Software pela Unicesumar - EAD, 
+Estudante de Análise e Desenvolvimeento de Sistemas pela Unoesc, 
 sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev front-end.
 ```
 </h4>
   
 ## Atualmente estudando 📚
 
-  - JavaScript
+  - Next.js
   
 ## Habilidades 💻
   
 <div style="display: inline_block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JAVA" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="JAVASCRIPT" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="JAVASCRIPT" width="40" height="40">
 </div>
 
 ## Meus dados no Github
