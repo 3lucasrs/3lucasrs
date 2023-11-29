@@ -29,18 +29,31 @@ i have been fascinated by computing since I was a child and currently I have ded
   
 ## Skills 💻
   
-<div style="display: inline_block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="JAVASCRIPT" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="JAVASCRIPT" width="40" height="40">
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,mysql" />
+  </a>
+</p>
 
-## My data on Github
+## Where to find me 🔍
+
+<p align="left">
+  <a href="malito:3lucasrs@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+
+  <a href="https://www.linkedin.com/in/3lucasrs/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+
+  <a href="https://wa.me/55049988057622" title="WhatsApp">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/></a>
+
+  <a href="https://instagram.com/3lucasrs" title="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+## My data on Github 📊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3lucasrs&show_icons=true&theme=tokyonight)
-[![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=3lucasrs&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/3lucasrs/)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&layout=compact&theme=tokyonight) -->
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&layout=compact&theme=tokyonight) 
 
