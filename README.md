@@ -23,7 +23,7 @@ i have been fascinated by computing since I was a child and currently I have ded
   
 ## Currently studying 📚
 
-  - Next.js
+  - React.js
   - Node.js
   - SQL
   
@@ -53,7 +53,7 @@ i have been fascinated by computing since I was a child and currently I have ded
 
 ## My data on Github 📊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3lucasrs&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3lucasrs&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3lucasrs&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3lucasrs&layout=compact&theme=transparent)
 
