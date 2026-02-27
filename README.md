@@ -16,12 +16,14 @@ Hello, I'm Lucas! <br>
 <h4>
 
 ```
-Systems Analysis and Development student at Universidade do Oeste de Santa Catarina (Unoesc),
-i have been fascinated by computing since I was a child and currently I have dedicated myself to becoming a good developer.
+I hold a degree in Systems Analysis and Development from Unoesc. 
+Currently, I work as a Developer focusing on the Python ecosystem and ERP solutions (Senior Sistemas). 
+While I have a strong background in Fullstack Web (Node.js/Next.js), 
+I'm now deeply involved with backend architecture, Oracle/PostgreSQL databases, and Python frameworks.
 ```
 </h4>
   
-## Currently studying 📚
+## I get along well with 
 
   - React.js
   - Node.js
@@ -31,7 +33,7 @@ i have been fascinated by computing since I was a child and currently I have ded
   
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,postgres,mysql,js,ts,react,next,nodejs,linux" />
   </a>
 </p>
 
@@ -50,10 +52,4 @@ i have been fascinated by computing since I was a child and currently I have ded
   <a href="https://instagram.com/3lucasrs" title="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-
-## My data on Github 📊
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3lucasrs&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3lucasrs&layout=compact&theme=transparent)
 
